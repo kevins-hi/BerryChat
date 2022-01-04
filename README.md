@@ -1,1 +1,3 @@
 # BerryChat
+
+messaging platform
